@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 200px;
+  margin: 20px auto;
+}
+
+p {
+  color: teal;
+  font-size: x-large;
+}
